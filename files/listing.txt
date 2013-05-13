@@ -1,9 +1,8 @@
-total 0
+total 999
 drwxr-xr-x@   8 tlberglund  staff   272 May 13 06:16 Box Documents
 drwx------+   8 tlberglund  staff   272 May 13 08:57 Desktop
 drwx------+  49 tlberglund  staff  1666 Apr  8 06:52 Documents
 drwx------+  57 tlberglund  staff  1938 May 13 13:07 Downloads
-drwx------@  30 tlberglund  staff  1020 May 13 06:14 Dropbox
 drwx------@  58 tlberglund  staff  1972 Mar 17 04:42 Library
 drwx------+  29 tlberglund  staff   986 May  9 15:13 Movies
 drwx------+   9 tlberglund  staff   306 Sep 26  2012 Muzak
@@ -13,7 +12,6 @@ drwxr-xr-x+   5 tlberglund  staff   170 Jul 25  2012 Public
 drwxr-xr-x   62 tlberglund  staff  2108 Apr  6 19:24 Stolen Software
 drwxr-xr-x+   3 tlberglund  staff   102 Mar 17 01:21 Sites
 drwxr-xr-x   12 tlberglund  staff   408 Dec  1 15:28 Tools
-drwxr-xr-x  115 tlberglund  staff  3910 May  7 17:50 code
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10  2012 eclipse-workspace
 drwxr-xr-x   39 tlberglund  staff  1326 Apr  6 05:59 github
 drwxr-xr-x   17 tlberglund  staff   578 Feb 13 07:43 gradle-book-2
